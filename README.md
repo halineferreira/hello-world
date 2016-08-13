@@ -1,2 +1,2 @@
-# hello-world
-Getting started with GitHub
+Hi everyone! 
+This is my first file on GitHub!
